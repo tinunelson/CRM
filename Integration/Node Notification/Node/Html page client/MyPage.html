@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<title>Node Client</title>
+		<script src="https://cdn.socket.io/socket.io-1.2.0.js"></script>
+		<script src="http://code.jquery.com/jquery-1.11.1.js"></script>
+	</head>
+		<body>
+			<div id="mydiv">
+			<p>Jquery Testing</p>
+			</div>
+			
+			<script> 
+			
+			var socket = io("/post_endpoint");
+			socket.on('message', function(msg){
+			var obj = jQuery.parseJSON( msg );
+			$('#records').append($('<li>').text(msg));
+			});
+			</script>
+			
+		</body>		
+</html>

@@ -1,0 +1,6 @@
+D:\CRM Projects\Node\Node\obj\Debug\Node.csprojResolveAssemblyReference.cache
+D:\CRM Projects\Node\Node\obj\Debug\Node.dll
+D:\CRM Projects\Node\Node\obj\Debug\Node.pdb
+D:\CRM Projects\Node CRM Notification Openshift\Working\Node\Node\obj\Debug\Node.csprojResolveAssemblyReference.cache
+D:\CRM Projects\Node CRM Notification Openshift\Working\Node\Node\obj\Debug\Node.dll
+D:\CRM Projects\Node CRM Notification Openshift\Working\Node\Node\obj\Debug\Node.pdb
