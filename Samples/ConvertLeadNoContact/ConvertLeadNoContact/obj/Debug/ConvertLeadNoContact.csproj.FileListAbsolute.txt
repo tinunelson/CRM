@@ -1,0 +1,10 @@
+D:\CRM Projects\ConvertLeadNoContact\ConvertLeadNoContact\bin\Debug\ConvertLeadNoContact.dll
+D:\CRM Projects\ConvertLeadNoContact\ConvertLeadNoContact\bin\Debug\ConvertLeadNoContact.pdb
+D:\CRM Projects\ConvertLeadNoContact\ConvertLeadNoContact\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\CRM Projects\ConvertLeadNoContact\ConvertLeadNoContact\bin\Debug\Microsoft.IdentityModel.dll
+D:\CRM Projects\ConvertLeadNoContact\ConvertLeadNoContact\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\CRM Projects\ConvertLeadNoContact\ConvertLeadNoContact\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\CRM Projects\ConvertLeadNoContact\ConvertLeadNoContact\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\CRM Projects\ConvertLeadNoContact\ConvertLeadNoContact\obj\Debug\ConvertLeadNoContact.csprojResolveAssemblyReference.cache
+D:\CRM Projects\ConvertLeadNoContact\ConvertLeadNoContact\obj\Debug\ConvertLeadNoContact.dll
+D:\CRM Projects\ConvertLeadNoContact\ConvertLeadNoContact\obj\Debug\ConvertLeadNoContact.pdb

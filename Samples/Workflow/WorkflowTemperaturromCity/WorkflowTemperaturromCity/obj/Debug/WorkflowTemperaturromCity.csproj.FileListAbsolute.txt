@@ -1,0 +1,13 @@
+D:\CRM Projects\WorkflowTemperaturromCity\WorkflowTemperaturromCity\bin\Debug\WorkflowTemperaturromCity.dll.config
+D:\CRM Projects\WorkflowTemperaturromCity\WorkflowTemperaturromCity\bin\Debug\WorkflowTemperaturromCity.dll
+D:\CRM Projects\WorkflowTemperaturromCity\WorkflowTemperaturromCity\bin\Debug\WorkflowTemperaturromCity.pdb
+D:\CRM Projects\WorkflowTemperaturromCity\WorkflowTemperaturromCity\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\CRM Projects\WorkflowTemperaturromCity\WorkflowTemperaturromCity\bin\Debug\Microsoft.IdentityModel.dll
+D:\CRM Projects\WorkflowTemperaturromCity\WorkflowTemperaturromCity\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\CRM Projects\WorkflowTemperaturromCity\WorkflowTemperaturromCity\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+D:\CRM Projects\WorkflowTemperaturromCity\WorkflowTemperaturromCity\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\CRM Projects\WorkflowTemperaturromCity\WorkflowTemperaturromCity\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\CRM Projects\WorkflowTemperaturromCity\WorkflowTemperaturromCity\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+D:\CRM Projects\WorkflowTemperaturromCity\WorkflowTemperaturromCity\obj\Debug\WorkflowTemperaturromCity.csprojResolveAssemblyReference.cache
+D:\CRM Projects\WorkflowTemperaturromCity\WorkflowTemperaturromCity\obj\Debug\WorkflowTemperaturromCity.dll
+D:\CRM Projects\WorkflowTemperaturromCity\WorkflowTemperaturromCity\obj\Debug\WorkflowTemperaturromCity.pdb
